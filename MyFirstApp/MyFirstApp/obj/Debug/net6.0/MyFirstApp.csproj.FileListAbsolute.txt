@@ -1,0 +1,15 @@
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.exe
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.deps.json
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.runtimeconfig.json
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.dll
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.pdb
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.AssemblyReference.cache
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfo.cs
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.dll
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\refint\MyFirstApp.dll
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.pdb
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.genruntimeconfig.cache
+D:\Testing Tutorial\MyFirstApp\MyFirstApp\obj\Debug\net6.0\ref\MyFirstApp.dll
